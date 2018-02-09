@@ -1,0 +1,5 @@
+C:\Users\ansriv\Documents\Visual Studio 2013\Projects\Design Patterns\Structural\Decorator\NewDecorator\NewDecorator\bin\Debug\NewDecorator.exe.config
+C:\Users\ansriv\Documents\Visual Studio 2013\Projects\Design Patterns\Structural\Decorator\NewDecorator\NewDecorator\bin\Debug\NewDecorator.exe
+C:\Users\ansriv\Documents\Visual Studio 2013\Projects\Design Patterns\Structural\Decorator\NewDecorator\NewDecorator\bin\Debug\NewDecorator.pdb
+C:\Users\ansriv\Documents\Visual Studio 2013\Projects\Design Patterns\Structural\Decorator\NewDecorator\NewDecorator\obj\Debug\NewDecorator.exe
+C:\Users\ansriv\Documents\Visual Studio 2013\Projects\Design Patterns\Structural\Decorator\NewDecorator\NewDecorator\obj\Debug\NewDecorator.pdb

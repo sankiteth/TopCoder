@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AllSubsetsOfASet", "AllSubsetsOfASet\AllSubsetsOfASet.pyproj", "{86A9A80B-9E14-4A8E-9E5F-AE0AA13A7B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A9A80B-9E14-4A8E-9E5F-AE0AA13A7B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A9A80B-9E14-4A8E-9E5F-AE0AA13A7B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
